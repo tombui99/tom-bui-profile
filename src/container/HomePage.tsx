@@ -4,10 +4,10 @@ import personalDetails from "../data/personalDetails.json";
 const HomePage = () => {
   return (
     <section>
-      <div className="mb-5">
-        <div className=""> Hey there! I am</div>
-        <div className="">{personalDetails.Name}</div>
-        <div className="">
+      <div className="mb-12 font-mono">
+        <div className="text-2xl"> Hey! I am</div>
+        <div className="text-4xl font-bold mt-4">{personalDetails.Name}</div>
+        <div className="text-2xl mt-4">
           {personalDetails.JobTitle} in {personalDetails.Location}
         </div>
       </div>
@@ -19,7 +19,25 @@ const HomePage = () => {
             alt="Profile"
           />
         </div>
-        <div>About Me</div>
+        <div>
+          <div className="text-2xl font-bold">About Me</div>
+          <div className="grid grid-cols-2">
+            <div>
+              <div className="font-bold text-left mt-3">Name:</div>
+              <div className="font-bold text-left mt-3">Date of Birth:</div>
+              <div className="font-bold text-left mt-3">Location:</div>
+              <div className="font-bold text-left mt-3">Email:</div>
+              <div className="font-bold text-left mt-3">Phone:</div>
+            </div>
+            <div>
+              <div className="text-left mt-3">placeholder</div>
+              <div className="text-left mt-3">placeholder</div>
+              <div className="text-left mt-3">placeholder</div>
+              <div className="text-left mt-3">placeholder</div>
+              <div className="text-left mt-3">placeholder</div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );

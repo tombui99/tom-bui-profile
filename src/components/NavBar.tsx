@@ -3,11 +3,6 @@ const NavBar = () => {
     <div className="mb-5">
       <nav className="bg-stone-400">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-          <a href="https://flowbite.com/" className="flex items-center">
-            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              My Page
-            </span>
-          </a>
           <button
             data-collapse-toggle="navbar-default"
             type="button"
@@ -33,12 +28,12 @@ const NavBar = () => {
           <div className="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border rounded-lg bg-stone-400 md:flex-row md:space-x-8 md:mt-0 md:border-0">
               <li>
-                <div className="block py-2 pl-3 pr-4 text-black hover:text-white border-0 p-0">
+                <div className="block py-2 pl-3 pr-4 text-black hover:text-white hover:cursor-pointer border-0 p-0">
                   Home
                 </div>
               </li>
               <li>
-                <div className="block py-2 pl-3 pr-4 text-black hover:text-white border-0 p-0">
+                <div className="block py-2 pl-3 pr-4 text-black hover:text-white hover:cursor-pointer border-0 p-0">
                   Past Projects
                 </div>
               </li>
