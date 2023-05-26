@@ -5,12 +5,12 @@ import HomePage from "./container/HomePage";
 
 function App() {
   return (
-    <section className="bg-stone-400 text-center h-screen">
+    <section className="bg-stone-400 text-center h-full">
       <NavBar />
       <div className="container">
         <HomePage />
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </section>
   );
 }

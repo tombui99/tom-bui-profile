@@ -1,8 +1,18 @@
 {
-  "Programming Languages": "JS",
-  "Front-end": "Angular",
-  "CSS Styling": "Angular",
-  "Back-end": "Angular",
-  "Database": "Angular",
-  "CI/CD Pipeline": "Angular"
+  "Frontend": [
+    { "tech": "Angular", "level": "90" },
+    { "tech": "React", "level": "80" },
+    { "tech": "Javascript / Typescript", "level": "85" },
+    { "tech": "Angular RXJS", "level": "70" },
+    { "tech": "React Redux / Angular NGRX", "level": "70" },
+    { "tech": "Tailwind CSS", "level": "75" },
+    { "tech": "Bootstrap", "level": "70" }
+  ],
+  "Backend": [
+    { "tech": "NodeJS", "level": "80" },
+    { "tech": ".NET Core", "level": "70" },
+    { "tech": ".NET Framework", "level": "60" },
+    { "tech": "C# / Java", "level": "70" },
+    { "tech": "Docker", "level": "60" }
+  ]
 }

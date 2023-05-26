@@ -1,11 +1,26 @@
 [
   {
-    "JobTitle": "Software Enginneer",
-    "Duration": "3 Years",
-    "From": "3 Years",
-    "To": "3 Years",
+    "JobTitle": "Software Engineer | Full-time",
+    "From": "Aug 2020",
+    "To": "Present",
     "Location": "Melbourne, Victoria, Australia",
-    "Company": "SSW",
-    "Description": "Doing Stuff"
+    "Company": "SSW (Superior Software for Windows)",
+    "Description": "• Working as a Software Engineer who builds and develops excellent software and web apps for varieties of clients\n• Providing advice and proposing strategies in Specification Review for Software development, creating flowcharts, dataflow, and wireframes for the Business  requirements\n• Researching, consulting, developing new features and building new web applications for the client using Fullstack technology stacks such as React, Angular, Svelte, NodeJS, .Net Framework, .Net Core, Docker, Firebase\n• Designing and implementing Database Schema as per Business requirements\n• Writing necessary documentations for the source code explaining how it works and the Business logics behind \n• Fixing, testing, and debugging front end UI and backend APIs for the Business\n• Crafting SQL queries and writing Stored Procedures as per Business requirements\n• Refactoring the code for optimal performance and maintenance of the existing systems\n• Building and maintaining DevOps Pipeline on Azure for Code integration and Code Deployment\n• Deploying websites on Internet Information Services (IIS) on-premise as well as on cloud services such as Azure\n• Adding Security to the websites by adding SSL Certificates"
+  },
+  {
+    "JobTitle": "Tech Consultant | Full-time Internship",
+    "From": "Jan 2020",
+    "To": "Jun 2020",
+    "Location": "Melbourne, Victoria, Australia",
+    "Company": "EY (Ernst and Young)",
+    "Description": "• Worked in the Technology Advisory team working on several technology strategies and offerings.\n• Completed a number of developer certificates in the robotic process automation (RPA) and AI space, namely UiPath, Blue Prism and Automation Anywhere IQ Bot\n • Accomplished an internal project which later got approved by my manager to be used by the team. The project was to develop an automated bot using UiPath that can scrape important data from EY's intranet and extract them into a csv file. The end goal is to save time for employees when finding key data.\n• Involved and worked closely with the manager and other consultants on several technology strategy and management projects that has focuses on Data Governance, Fintech and Insurance."
+  },
+  {
+    "JobTitle": "IT Peer Mentor",
+    "From": "Jan 2019",
+    "To": "Dec 2019",
+    "Location": "Melbourne, Victoria, Australia",
+    "Company": "Monash University",
+    "Description": "• Leading a group of new IT students \n• Guiding and giving advice of how to succeed in their degrees\n• Facilitate and hold social IT events"
   }
 ]

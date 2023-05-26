@@ -1,7 +1,25 @@
 [
   {
-    "Name": "Anthony",
-    "Title": "Solution Architect",
+    "Name": "William Liebenberg",
+    "JobTitle": "Solution Architect at SSW",
+    "Contact": "+61 407 376 488",
+    "Email": "williamliebenberg@ssw.com.au"
+  },
+  {
+    "Name": "Gert Max",
+    "JobTitle": "Solution Architect/SSW Manager at SSW",
+    "Contact": "+61 419 620 921",
+    "Email": "gert@ssw.com.au"
+  },
+  {
+    "Name": "Anthony Nguyen",
+    "JobTitle": "Former Solution Architect at SSW",
+    "Contact": "+61 413 725 625",
+    "Email": "nvhoanganh1909@gmail.com"
+  },
+  {
+    "Name": "Rex Lee",
+    "JobTitle": "CyberSec Consultant at EY",
     "Contact": "123123",
     "Email": "123123"
   }
